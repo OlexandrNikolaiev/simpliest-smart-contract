@@ -1,0 +1,16 @@
+[package]
+name = "smart-contract"
+version = "0.1.0"
+edition = "2021"
+
+[lib]
+crate-type = ["cdylib"]
+
+[dependencies]
+solana-program = "=1.18.26"
+
+[patch.crates-io]
+blake3 = { git = "https://github.com/BLAKE3-team/BLAKE3.git", tag = "1.8.2" }
+
+
+

@@ -1,0 +1,64 @@
+{
+  "hash": "1560c4c5",
+  "configHash": "77d56401",
+  "lockfileHash": "4335ed24",
+  "browserHash": "a34ca075",
+  "optimized": {
+    "@angular/common": {
+      "src": "../../../../../../node_modules/@angular/common/fesm2022/common.mjs",
+      "file": "@angular_common.js",
+      "fileHash": "40131d4e",
+      "needsInterop": false
+    },
+    "@angular/common/http": {
+      "src": "../../../../../../node_modules/@angular/common/fesm2022/http.mjs",
+      "file": "@angular_common_http.js",
+      "fileHash": "a13baf88",
+      "needsInterop": false
+    },
+    "@angular/core": {
+      "src": "../../../../../../node_modules/@angular/core/fesm2022/core.mjs",
+      "file": "@angular_core.js",
+      "fileHash": "9349f8fd",
+      "needsInterop": false
+    },
+    "@angular/platform-browser": {
+      "src": "../../../../../../node_modules/@angular/platform-browser/fesm2022/platform-browser.mjs",
+      "file": "@angular_platform-browser.js",
+      "fileHash": "ef988e5c",
+      "needsInterop": false
+    },
+    "@solana/web3.js": {
+      "src": "../../../../../../node_modules/@solana/web3.js/lib/index.browser.esm.js",
+      "file": "@solana_web3__js.js",
+      "fileHash": "41153c1c",
+      "needsInterop": false
+    },
+    "buffer": {
+      "src": "../../../../../../node_modules/buffer/index.js",
+      "file": "buffer.js",
+      "fileHash": "6fb3331d",
+      "needsInterop": true
+    }
+  },
+  "chunks": {
+    "chunk-MAKYX6M2": {
+      "file": "chunk-MAKYX6M2.js"
+    },
+    "chunk-I7TXT576": {
+      "file": "chunk-I7TXT576.js"
+    },
+    "chunk-UV5Y4VM3": {
+      "file": "chunk-UV5Y4VM3.js"
+    },
+    "chunk-OK2QQ6ZK": {
+      "file": "chunk-OK2QQ6ZK.js"
+    },
+    "chunk-OMWAWIBY": {
+      "file": "chunk-OMWAWIBY.js"
+    },
+    "chunk-S35DAJRX": {
+      "file": "chunk-S35DAJRX.js"
+    }
+  }
+}
